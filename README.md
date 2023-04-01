@@ -1,9 +1,10 @@
-<!---
-ETOemperor/ETOemperor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Hello！<br>
-三体爱好者<br>
-bilibili.uid=1404758641<br>
-我的做的[ETO网站](https://etoemperor.github.io/)可以去看看<br>
-消灭人类暴政，世界属于三体！<br>
+# ETOemperor
+## 三体爱好者
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ETOemperor)](https://github.com/ETOemperor)
+---
+会一点 Python<br>
+项目有空就更新
+---
+主要项目：
+[P2P_email](https://github.com/ETOemperor/p2p_e-mail)
