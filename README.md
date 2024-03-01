@@ -1,12 +1,7 @@
-# ETOemperor
-## 三体爱好者
-会一点 Python<br>
-项目有空就更新
+# LRoInT
+会一点 Python<br>最近注意关研究 [eliza](https://github.com/LRoInT/eliza_change")
 ---
-![Visitor Count](https://profile-counter.glitch.me/ETOemperor/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/LRoInT/count.svg)
 <br>
-![ETOemperor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ETOemperor&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETOemperor)](github-readme-stats)
----
-主要项目：
-[P2P_email](https://github.com/ETOemperor/p2p_e-mail)
+![LRoInT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LRoInT&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LRoInT)](github-readme-stats)
