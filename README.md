@@ -1,5 +1,5 @@
 # LRoInT
-会一点 Python<br>最近注意关研究 [eliza](https://github.com/LRoInT/eliza_change")
+会一点 Python<br>最近主要研究 [eliza](https://github.com/LRoInT/eliza_change")
 ---
 ![Visitor Count](https://profile-counter.glitch.me/LRoInT/count.svg)
 <br>
